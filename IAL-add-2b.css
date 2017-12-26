@@ -1,0 +1,909 @@
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+/* 
+CSS Document 
+*/
+
+/*
+==== Body fonts and such=========
+*/
+
+/*
+Body background to neutral grey for lightbox
+*/
+body.custom-background {
+    background-color: #808080;
+}
+body, button, input, textarea {
+    color: #808080;
+}
+
+/*
+Contact form larger title
+*/                                 
+.widget .widget-title, .widget .widgettitle {
+	font-size: 2.41575em;
+	letter-spacing: 0;
+	border-bottom: 1px solid rgba(0, 0, 0, .05);
+	padding: 0 0 1em;
+	
+/* margin-bottom: 1em; */
+	font-weight: 500;
+}
+
+/*
+==== Body fonts and such=========
+*/
+
+/*
+Body background to neutral grey for lightbox
+*/                               
+body.custom-background {
+	background-color: #808080;
+}                                 
+.envirabox-skin.envirabox-theme-showcase {
+	padding: 40px !important;
+	background: #808080;
+	border: 0px solid #cfcfcf;
+	-moz-box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.25);
+	box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.25);
+}                                   
+.envirabox-overlay.overlay-supersize {
+	overflow-x: hidden!important;
+	background: #808080 !important;
+}
+/*media all*/                                   
+.overlay-supersize.envirabox-overlay {
+	overflow-x: hidden !important;
+	background: #808080;
+	background-color: #808080;
+}
+/*
+pulling some of the top gray out by reducing padding-top
+*/                                  
+.page-template-template-homepage:not(.has-post-thumbnail) .site-main {
+	padding-top: .1em;
+}                                   
+.page-template-template-homepage .entry-header: h1 {
+	font-size: .0em;
+	margin-bottom: .2360828548em;
+}
+    /*
+content background
+*/
+.content{
+	background-color: #808080;
+	border-style: none;
+}
+/*
+Lightbox background color
+*/
+element.style {
+	margin: 0px;
+	background: #0e0e0e;
+}
+.envirabox-overlay.overlay-supersize {
+	overflow-x: hidden!important;
+	background: #808080 !important;
+}
+/*
+body font family like old site
+*/
+body,
+button,
+input,
+select,
+textarea: {
+	font-family: Arial, Helvetica, sans-serif;
+}
+/*
+un-bullet lists
+*/
+ul {
+	list-style: none;
+}
+#page .hentry .entry-content a {
+	color: rgb(255, 255, 255);
+	font-size: 21px;
+	list-style-type: circle;
+}
+/*
+text background color was green on ordered list
+*/
+#page .hentry {
+	background-color: #808080 !;
+	color: #fff;
+}
+/*
+reduce font size of links
+*/
+#page .hentry .entry-content a {
+	font-size: 1.1em;
+}
+/*
+Search box placement
+*/
+@media (min-width: 768px) woocommerce.css?ver=2.2.3:1 .site-search form {
+	margin: 0;
+	padding-left: 40px;
+}
+/*
+Breadcrumbs background color to match rest of beackground.
+*/
+.woocommerce-breadcrumb,
+#reviews .commentlist li .comment_container {
+	background-color: #808080 !;
+}
+a {
+	color: #fff;
+}
+/*
+
+*/
+media (min-width: 768px) style.css?ver=2.2.3:1 .secondary-navigation .menu {
+	font-size: .98em;
+}
+/*
+heading text color = white; font-size reduced
+*/
+element.style {}
+(index):136 h1,h2,h3,h4,h5,h6 {
+	color: #ffffff;
+}
+/*
+change dreen titles to white
+*/
+#page .hentry {
+	color: #ffffff;
+}
+/*
+heading background to black
+*/
+.site-header,
+.secondary-navigation ul ul,
+.main-navigation ul.menu>li.menu-item-has-children:after,
+.secondary-navigation ul.menu ul,
+.storefront-handheld-footer-bar,
+.storefront-handheld-footer-bar ul li>a,
+.storefront-handheld-footer-bar ul li.search .site-search,
+button.menu-toggle,
+button.menu-toggle:hover {
+	background-color: #111111;
+}
+/*
+Reduce font-size of h1 & h3 on pages
+*/
+.alpha,
+h1 {
+	font-size: .0em;
+	line-height: 1.214;
+	letter-spacing: -1px;
+}
+.gamma,
+h3 {
+	font-size: 1.18em;
+	font-weight: 600;
+}
+style.css?ver=2.1.8:36 h1,h2,h3,h4,h5,h6 {
+	font-weight: 700;}
+	margin: 0 0 .5407911001em;
+	color: #131315;
+}
+/*
+gray border non-gallery photos
+*/
+.wp-caption img[class*=wp-image-] {
+	display: block;
+	margin: 0 auto;
+	border-width: 0px;
+	border-color: #808080;
+	border-style: solid;
+	/* border-radius: 3%;*/
+	background-color: white;
+}
+envira.css?ver=1.6.1.1:1 .envirabox-wrap,
+.envirabox-skin,
+.envirabox-outer,
+.envirabox-inner,
+.envirabox-image,
+.envirabox-wrap iframe,
+.envirabox-wrap object,
+.envirabox-nav,
+.envirabox-nav span,
+.envirabox-tmp,
+.envirabox-buttons,
+.envirabox-thumbs,
+.envirabox-wrap *,
+.envirabox-thumbs *,
+.envirabox-buttons * {
+	background: #808080;
+	/* border: 3px solid; */
+	/* border-color: #808080; */
+	/* -webkit-border-radius: 3%; */
+	/*-moz-border-radius: 3%;*/
+}
+/*
+Homepage rounded corners
+*/
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item img {
+	border-style: solid;
+	border-color: #808080;
+	border-width: 3px;
+	border-radius: 3%;
+}
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item img {
+	float: none;
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	/* max-width: 100%;*/
+}
+.envira-gallery-wrap,
+.envira-gallery-wrap *,
+.envira-tags-filter-list,
+.envira-tags-filter-list * {
+	width: 100%;
+}
+/*
+gray border: blog images
+*/
+.hentry .wp-post-image {
+	margin-bottom: 1.618em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+	border-width: 0px;
+	border-color: #808080;
+	border-radius: 3%;
+}
+/*
+lightbox border
+*/
+.envira-supersize .envirabox-outer .envirabox-inner img {
+	display: inline-block;
+	width: auto;
+	height: auto;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #808080;
+	border-radius: 3%;
+}
+/*
+Supersize background = neutral gray
+*/
+.envirabox-overlay.overlay-supersize {
+	overflow-x: hidden !important;
+	background: #808080;
+}
+.envirabox-overlay.overlay-supersize {
+	overflow-x: hidden!important;
+	background: #808080 !;
+}
+/*
+Remove zoom on hover on the gallery for the homepage
+*/
+#envira-gallery-wrap-1062.envira-gallery-wrap .envira-gallery-public .envira-gallery-item:hover img {
+	transform: none;
+}
+/*
+=====================
+Nav
+=====================
+*/
+/*
+Remove list bullets
+*/
+ul {
+	list-style: none;
+	!important;
+	list-style-type: none;
+	list-style-image: none;
+	list-style-position: outside;
+}
+.hentry .entry-content ul {
+	list-style: none;
+	!important;
+	list-style-type: none;
+	list-style-image: none;
+	list-style-position: outside;
+	!important;
+}
+media all ul {
+	list-style: none;
+	!important;
+	list-style-type: none;
+	list-style-image: none;
+	list-style-position: outside;
+}
+/*
+decrease padding on menu
+*/
+@media (min-width: 768px) style.css?ver=2.1.8:36 .secondary-navigation .menu a {
+	padding: .7em .875em;
+	font-weight: 300;
+	color: #ffffff;
+}
+/*
+link color = white(#ffffff)
+*/
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+	font-weight: 700;
+}
+?customize_chan…-child-the…:46 a {
+	color: #ffffff;
+}
+/*
+posted on date link: drop undline & increase font-weight to 600
+*/
+.hentry .entry-header .posted-on: a {
+	font-weight: 600;
+}
+/*
+============================
+Gallery
+============================
+*/
+/*
+change gallery border to #808080;
+*/
+pre {
+	background: #808080;
+}
+/*
+increase SEARCH inset contrast: increase font- weight
+*/
+input[type=search],
+textarea {
+	font-weight: 600;
+}
+/*
+Zoom thumbnails on hover
+*/
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item img {
+	transition: all .2s ease-in-out;
+}
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item:hover img {
+	transform: scale(1.1);
+}
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item,
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item .envira-gallery-item-inner {
+	overflow: hidden;
+}
+=================================/*
+Footer
+*/
+=================================/*
+Padding top tighten
+*/
+@media (min-width: 768px) style.css?ver=2.1.8:36 .footer-widgets {
+	padding-top: 2.235801032em;
+	border-bottom: 3px solid rgba(0, 0, 0, .05);
+}
+/*
+Tighten vertical space widget 1, "Other Sites"
+*/
+.widget .widget-title,
+.widget .widgettitle {
+	font-size: 2.41575em;
+	letter-spacing: 0;
+	border-bottom: 0px solid rgba(0, 0, 0, .05);
+	padding: 0 0;
+}
+/*
+Copyright, design info  reduce padding to tighten vertical a bit; center
+*/
+.site-info {
+	padding: 2.617924em 0 0 15.6em;
+	padding-top: 1.61792em;
+	padding-right: 0px;
+	padding-bottom: 1.61792em;
+	padding-left: 15.6em;
+	text-align: center;
+}
+/*
+Reduce padding-top
+*/
+@media (min-width: 768px) style.css?ver=2.1.8:36 .footer-widgets {
+	padding-top: 2.235801032em;
+	border-bottom: 3px solid rgba(0, 0, 0, .05);
+}
+/*
+Tighten widget vertical a bit
+*/
+.widget {
+	margin: 0 0 1.706325903em;
+}
+.widget .widget-title,
+.widget .widgettitle: {
+	font-size: 1.41575em;
+	letter-spacing: 0;
+	border-bottom: 1px solid rgba(0, 0, 0, .05);
+	padding: 0 0 1em;
+	margin-bottom: .6em;
+	font-weight: 700;
+}
+/*
+footer: hide designed by...
+*/
+footer .site-info {
+	display: none;
+}
+/*
+END FOOTER
+*/
+/*
+Storefront Customization
+*/
+.envira-tags-filter-list {
+	clear: both;
+	margin: 0 0 10px 0;
+	list-style: none;
+	list-style-type: none;
+	display: none;
+}
+/*Fix border radius on hover for all images*/
+.envira-gallery-item-inner,
+.envirabox-outer,
+.envirabox-overlay.overlay-base .envirabox-skin,
+.envirabox-opened .envirabox-skin,
+.envirabox-skin.envirabox-theme-captioned {
+	border-radius: 3% !important;
+}
+.envirabox-opened .envirabox-skin,
+.envira-supersize .envirabox-outer {
+	box-shadow: none !important;
+	background: transparent !important;
+}
+/*
+	decrease opacity on cart price
+	 * */
+@media (min-width: 768px) autoptimize_af9…3be268.php:161 .site-header-cart .cart-contents .count {
+	font-weight: 300;
+	opacity: 1.0;
+	font-size: .875em;
+	color: #fff;
+}
+/*
+	 * Breadcrumb white
+	 * */
+body,
+.secondary-navigation a,
+.onsale,
+.pagination .page-numbers li .page-numbers:not(.current),
+.woocommerce-pagination .page-numbers li .page-numbers:not(.current) {
+	color: #fff;
+    background: #808080;
+}
+.envirabox-skin.envirabox-theme-showcase {
+    padding: 40px !important;
+    background: #808080;
+    border: 0px solid #cfcfcf;
+    -moz-box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.25);
+    box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.25);
+}
+
+.envirabox-overlay.overlay-supersize {
+    overflow-x: hidden!important;
+    background: #808080 !important;
+}
+
+/*media all*/
+.overlay-supersize.envirabox-overlay {
+    overflow-x: hidden !important;
+    background: #808080 !;
+    background-color: #808080 !;
+}
+/*
+pulling some of the top gray out by reducing padding-top
+*/
+.page-template-template-homepage:not(.has-post-thumbnail) .site-main {
+    padding-top: .1em;
+}
+.page-template-template-homepage .entry-header h1 {
+    font-size: .0em;
+    margin-bottom: .2360828548em;
+/*
+}
+content background
+*/
+#content {
+    background-color: #808080;
+    border-style: none;
+}
+/*
+Lightbox background color
+*/
+element.style {
+    margin: 0px;
+    background: #0e0e0e;
+}
+.envirabox-overlay.overlay-supersize {
+    overflow-x: hidden!important;
+    background: #808080 !important;
+}
+/*
+body font family like old site
+*/
+body, button, input, select, textarea {
+    font-family: Arial,Helvetica,sans-serif;
+}
+/*
+un-bullet lists
+*/
+ul {
+    list-style: none;
+}
+#page .hentry .entry-content a {
+       color: rgb(255, 255, 255); 
+       font-size: 21px; 
+       list-style-type: circle; 
+    } 
+/*
+text background color was green on ordered list
+*/
+#page .hentry {
+    background-color: #808080 !;
+    color: #fff;
+}
+/*
+reduce font size of links 
+*/
+#page .hentry .entry-content a {
+    
+    font-size: 1.1em;
+    
+}
+/*
+Search box placement
+*/
+@media (min-width: 768px)
+woocommerce.css?ver=2.2.3:1
+.site-search form {
+    margin: 0;
+    padding-left: 40px;
+}
+/*
+Breadcrumbs background color to match rest of beackground.
+*/
+.woocommerce-breadcrumb, #reviews .commentlist li .comment_container {
+    background-color: #808080 !;
+}
+a {
+    color: #fff;
+}
+/*
+
+*/
+media (min-width: 768px)
+style.css?ver=2.2.3:1
+.secondary-navigation .menu {
+    font-size: .98em;
+}
+/*
+heading text color = white; font-size reduced
+*/
+element.style {
+}
+(index):136
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+/*
+change dreen titles to white
+*/
+#page .hentry {
+    color: #ffffff;
+}
+/*
+heading background to black
+*/
+.site-header, .secondary-navigation ul ul, .main-navigation ul.menu > li.menu-item-has-children:after, .secondary-navigation ul.menu ul, .storefront-handheld-footer-bar, .storefront-handheld-footer-bar ul li > a, .storefront-handheld-footer-bar ul li.search .site-search, button.menu-toggle, button.menu-toggle:hover {
+    background-color: #111111;
+}
+/*
+Reduce font-size of h1 & h3 on pages
+*/
+.alpha, h1 {
+    font-size: .0em;
+    line-height: 1.214;
+    letter-spacing: -1px;
+}
+.gamma, h3 {
+    font-size: 1.18em;
+    font-weight: 600;
+}
+style.css?ver=2.1.8:36
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    margin: 0 0 .5407911001em;
+    color: #131315;
+}
+/*
+gray border non-gallery photos
+*/
+.wp-caption img[class*=wp-image-] {
+    display: block;
+    margin: 0 auto;
+    border-width: 0px;
+    border-color: #808080;
+    border-style: solid;
+   /* border-radius: 3%;*/
+    background-color: white;
+}
+envira.css?ver=1.6.1.1:1
+.envirabox-wrap, .envirabox-skin, .envirabox-outer, .envirabox-inner, .envirabox-image, .envirabox-wrap iframe, .envirabox-wrap object, .envirabox-nav, .envirabox-nav span, .envirabox-tmp, .envirabox-buttons, .envirabox-thumbs, .envirabox-wrap *, .envirabox-thumbs *, .envirabox-buttons * {
+    background: #808080;
+    /* border: 3px solid; */
+    /* border-color: #808080; */
+    /* -webkit-border-radius: 3%; */
+    /*-moz-border-radius: 3%;*/
+}
+/*
+Homepage rounded corners
+*/
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item img {
+	float: none;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    border-style: solid;
+    border-color: #808080;
+    border-width: 3px;
+    border-radius: 3%;
+	}
+/*
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item img {
+    float: none;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+   /* max-width: 100%;*/
+}
+*/
+.envira-gallery-wrap, .envira-gallery-wrap *, .envira-tags-filter-list, .envira-tags-filter-list * {    
+    width: 100%;
+}
+/*
+gray border: blog images
+*/
+.hentry .wp-post-image {
+    margin-bottom: 1.618em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 0px;
+    border-color: #808080;
+    border-radius: 3%;
+}
+/*
+lightbox border
+*/
+.envira-supersize .envirabox-outer .envirabox-inner img {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #808080;
+    border-radius: 3%;
+}
+/*
+Supersize background = neutral gray
+*/
+.envirabox-overlay.overlay-supersize {
+    overflow-x: hidden !important;
+    background: #808080;
+}
+.envirabox-overlay.overlay-supersize {
+    overflow-x: hidden!important;
+    background: #808080 !;
+	}
+/*
+Remove zoom on hover on the gallery for the homepage
+*/
+#envira-gallery-wrap-1062.envira-gallery-wrap .envira-gallery-public .envira-gallery-item:hover img {
+    transform: none;
+}
+/*
+=====================
+Nav
+=====================
+*/
+/*
+Remove list bullets
+*/
+ul {
+    list-style: none;
+	!important;
+	list-style-type: none;
+	list-style-image: none;
+	list-style-position: outside;
+}
+.hentry .entry-content ul {
+    list-style: none;
+	!important;
+    list-style-type: none;
+    list-style-image: none;
+    list-style-position: outside;
+	!important;
+}
+/*
+media all
+*/
+ul {
+list-style: none;
+    !important;
+	list-style-type: none;
+	list-style-image: none;
+	list-style-position: outside;
+}
+
+/*
+decrease padding on menu
+*/
+@media (min-width: 768px)
+style.css?ver=2.1.8:36
+.secondary-navigation .menu a {
+    padding: .7em .875em;
+    font-weight: 300;
+    color: #ffffff;
+}
+/*
+link color = white(#ffffff)
+*/
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-weight: 700;
+}
+?customize_chan…-child-the…:46
+   a {
+    color: #ffffff;
+}
+/*
+posted on date link: drop undline & increase font-weight to 600
+*/
+.hentry .entry-header .posted-on a {
+    font-weight: 600;
+}
+/*
+============================ 
+Gallery 
+============================
+*/
+/*
+change gallery border to #808080;
+*/
+pre {
+    background: #808080;
+}
+/*
+increase SEARCH inset contrast: increase font- weight
+*/
+input[type=search], textarea { 
+    font-weight: 600;
+}
+/*
+Zoom thumbnails on hover
+*/
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item img { 
+   transition: all .2s ease-in-out; 
+}
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item:hover img { 
+   transform: scale(1.1); 
+}
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item,
+.envira-gallery-wrap .envira-gallery-public .envira-gallery-item .envira-gallery-item-inner { 
+   overflow: hidden; 
+}
+=================================
+/*
+Footer 
+*/
+=================================
+/*
+Padding top tighten
+*/
+@media (min-width: 768px)
+style.css?ver=2.1.8:36
+.footer-widgets {
+    padding-top: 2.235801032em;
+    border-bottom: 3px solid rgba(0,0,0,.05);
+}
+/*
+Tighten vertical space widget 1, "Other Sites"
+*/
+.widget .widget-title, .widget .widgettitle {
+    font-size: 2.41575em;
+    letter-spacing: 0;
+    border-bottom: 0px solid rgba(0,0,0,.05);
+    padding: 0 0;
+}
+/*
+Copyright, design info  reduce padding to tighten vertical a bit; center
+*/
+.site-info {
+    padding: 2.617924em 0 0 15.6em;
+    padding-top: 1.61792em;
+    padding-right: 0px;
+    padding-bottom: 1.61792em;
+    padding-left: 15.6em;
+		text-align: center;
+}
+/*
+Reduce padding-top
+*/
+@media (min-width: 768px)
+style.css?ver=2.1.8:36
+.footer-widgets {
+    padding-top: 2.235801032em;
+    border-bottom: 3px solid rgba(0,0,0,.05);
+}
+/*
+Tighten widget vertical a bit
+*/
+.widget {
+    margin: 0 0 1.706325903em;
+}
+.widget .widget-title, .widget .widgettitle {
+    font-size: 1.41575em;
+    letter-spacing: 0;
+    border-bottom: 1px solid rgba(0,0,0,.05);
+    padding: 0 0 1em;
+    margin-bottom: .6em;
+    font-weight: 700;
+}
+/*
+footer: hide designed by...
+*/
+footer .site-info { display: none; }
+/*
+END FOOTER
+*/
+/*
+Storefront Customization
+*/
+.envira-tags-filter-list {
+    clear: both;
+    margin: 0 0 10px 0;
+    list-style: none;
+    list-style-type: none;
+    display: none;
+}
+/*Fix border radius on hover for all images*/
+.envira-gallery-item-inner, .envirabox-outer, .envirabox-overlay.overlay-base .envirabox-skin, .envirabox-opened .envirabox-skin, .envirabox-skin.envirabox-theme-captioned {
+border-radius: 3% !important;
+}
+.envirabox-opened .envirabox-skin, .envira-supersize .envirabox-outer {
+box-shadow: none !important;
+	background:transparent !important;
+}	
+	/*
+	decrease opacity on cart price
+	 * */
+	@media (min-width: 768px)
+autoptimize_af9…3be268.php:161
+.site-header-cart .cart-contents .count {
+    font-weight: 300;
+    opacity: 1.0;
+    font-size: .875em;
+    color: #fff;
+}
+/*
+	Breadcrumb white
+*/
+	body, .secondary-navigation a, .onsale, .pagination .page-numbers li .page-numbers:not(.current), .woocommerce-pagination .page-numbers li .page-numbers:not(.current) {
+    color: #fff;
+}
